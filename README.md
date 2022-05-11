@@ -1,1 +1,1 @@
-Small project to learn Vue.js
+Small project to learn Vue.js !
